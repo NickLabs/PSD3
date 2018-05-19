@@ -1,0 +1,7 @@
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\bin\Debug\Controller.dll.config
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\bin\Debug\Controller.dll
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\bin\Debug\Controller.pdb
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\Controller.dll
+c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\Controller.pdb
