@@ -5,3 +5,9 @@ c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\Domain
 c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\DomainModel.csproj.CoreCompileInputs.cache
 c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\Controller.dll
 c:\my documents\visual studio 2017\Projects\PSDLab32\Controller\obj\Debug\Controller.pdb
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\bin\Debug\Controller.dll.config
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\bin\Debug\Controller.dll
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\bin\Debug\Controller.pdb
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\obj\Debug\Controller.dll
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\Controller\obj\Debug\Controller.pdb

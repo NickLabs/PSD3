@@ -7,3 +7,11 @@ c:\my documents\visual studio 2017\Projects\PSDLab32\View\bin\Debug\View.dll
 c:\my documents\visual studio 2017\Projects\PSDLab32\View\bin\Debug\View.pdb
 c:\my documents\visual studio 2017\Projects\PSDLab32\View\obj\Debug\View.dll
 c:\my documents\visual studio 2017\Projects\PSDLab32\View\obj\Debug\View.pdb
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\bin\Debug\View.dll.config
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\bin\Debug\View.dll
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\bin\Debug\View.pdb
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\obj\Debug\View.Forms.MainForm.resources
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\obj\Debug\View.dll
+C:\Users\Ric124\Desktop\Programming\ShittyProjects\С#Lab3\PSD3\View\obj\Debug\View.pdb

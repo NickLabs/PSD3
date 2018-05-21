@@ -15,6 +15,8 @@ namespace View.ViewInterfaces
         void WrongInterval();
         void SetChart(List<double> X, List<double> Y);
         void SetDotsList(List<double> X, List<double> Y);
+        void Greetings();
+        event EventHandler HelpButton;
         event EventHandler ButtonClick;
         void Start();
     }

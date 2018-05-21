@@ -21,10 +21,15 @@ namespace Presenter.Presenters
 
         public void Run()
         {
+            view.HelpButton += View_HelpButton;
             view.ButtonClick += View_ButtonClick;
             view.Start();
         }
 
+        private void View_HelpButton(object sender, EventArgs e)
+        {
+            view.Greetings();
+        }
 
         private void View_ButtonClick(object sender, EventArgs e)
         {

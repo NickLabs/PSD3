@@ -17,7 +17,7 @@ namespace View.Forms
         public string Max { get { return RightBorder.Text; } }
         public string A { get { return ParamA.Text; } }
         public event EventHandler ButtonClick;
-        public event EventHandler HelpClick;
+        public event EventHandler HelpButton;
         public void SetChart(List<double> X, List<Double> Y)
         {
             chart.Series[0].Points.Clear();
@@ -45,6 +45,15 @@ namespace View.Forms
         {
             string message = "Левая граница должна быть меньше правой";
             string caption = "Неверный интервал";
+            MessageBox.Show(message, caption, MessageBoxButtons.OK);
+        }
+        public void Greetings()
+        {
+            string message = "Программа была разработана студентом 465 группы\n" +
+                "Винокуровым Никитой Александровичем\n" +
+                "Данная программа строит графк функции Y = A^3/(A^2+X^2)\n и выводит координаты точек, по которым был построен график" +
+                "Пользователь вводит параметр А, а также левую и правую границы отображения графика";
+            string caption = "Приветствие";
             MessageBox.Show(message, caption, MessageBoxButtons.OK);
         }
 
@@ -82,12 +91,7 @@ namespace View.Forms
 
         private void helpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            string message = "Программа была разработана студентом 465 группы\n" +
-                "Винокуровым Никитой Александровичем\n" + 
-                "Данная программа строит графк функции Y = A^3/(A^2+X^2)\n и выводит координаты точек, по которым был построен график" + 
-                "Пользователь вводит параметр А, а также левую и правую границы отображения графика";
-            string caption = "Приветствие";
-            MessageBox.Show(message, caption, MessageBoxButtons.OK);
+            HelpButton?.Invoke(this, null);
         }
     }     
 }
